@@ -1,4 +1,7 @@
-### Hi there 👋
+## Dê a uma pessoa um programa e frustre ela por um dia, ensine ela a programar e frustre ela para sempre
+
+
+
 
 <!--
 **gabrielcraveiro/gabrielcraveiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
