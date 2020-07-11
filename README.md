@@ -1,4 +1,4 @@
-## Dê a uma pessoa um programa e frustre ela por um dia, ensine ela a programar e frustre ela para sempre
+Dê a uma pessoa um programa e frustre ela por um dia, ensine ela a programar e frustre ela para sempre
 
 
 
