@@ -1,7 +1,6 @@
 Dê a uma pessoa um programa e frustre ela por um dia, ensine ela a programar e frustre ela para sempre
 
-
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/gabrielcraveiro/)
 
 <!--
 **gabrielcraveiro/gabrielcraveiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
